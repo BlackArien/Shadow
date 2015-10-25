@@ -8,8 +8,8 @@ exports.port = 8000;
 //   know what you are doing.
 exports.proxyip = ['127.0.0.0/8'];
 
-exports.serverid = 'shadow';
-exports.servertoken = 'fSyXb/eebJS+';
+exports.serverid = 'genesis';
+exports.servertoken = '4EVVPbcqLStT';
 
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
